@@ -1,0 +1,23 @@
+#inputação de dados em variáveis...
+
+print("Digite o seu nome:")
+Myname = str(input())
+print("Digite a sua altura:")
+MyHeight = float(input())
+print("Digite a sua idade:")
+MyAge = int(input())
+print("Digite o seu endereço:")
+Enderess = str(input())
+print("digite o seu numero de telefone:")
+NumberCell = int(input())
+print("digite o seu CPF")
+CPF = (input())
+print("Nome da Mãe:")
+NameMon = input()
+
+print(type(Myname))
+print(type(MyHeight))
+print(type(MyAge))
+print(type(Enderess))
+print(type(NumberCell))
+print(type(CPF))
